@@ -14,196 +14,196 @@
         "gitPath" : "legoandmars/GorillaCosmetics",
         "releaseId" : 0,
         "author" : "Bobbie & Graic",
-        "group" : "Cosmetic",
+        "group" : "Gorilla Tag Mods",
         "dependencies" : [
          "Utilla",
          "Newtonsoft.JSON"
         ]
      },
-     {
-      "name" : "Rain Disabler",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/Rain-Disabler-PC",
-      "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
-      "group" : "Cosmetic",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-        "name" : "AirJump",
-        "tag" : "",
-        "gitPath" : "fchb1239/AirJump",
-        "releaseId" : 0,
-        "author" : "fchb1239",
-        "group" : "Gameplay",
-        "dependencies" : [
-         "Utilla",
-         "Computer Interface"
-        ]
-     },
-     {
-      "name" : "Dash Monke",
-      "tag" : "",
-      "gitPath" : "Frogrilla/DashMonke",
-      "releaseId" : 0,
-      "author" : "Frogrilla",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-      "name" : "GripMonke",
-      "tag" : "",
-      "gitPath" : "WowItsKaylie/GripMonke",
-      "releaseId" : 0,
-      "author" : "Lillie",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
-      "name" : "Rising Lava",
-      "tag" : "",
-      "gitPath" : "ChillGunner/RisingLava",
-      "releaseId" : 0,
-      "author" : "BoopetyDoopety",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
-      "name" : "Iron Monke",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/IronMonkePC",
-      "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-        "name" : "Monke Bazooka",
-        "tag" : "",
-        "gitPath" : "Waulta/MonkeBazooka",
-        "releaseId" : 0,
-        "author" : "Waulta",
-        "group" : "Gameplay",
-        "dependencies" : [
-         "Utilla",
-         "Computer Interface"
-        ]
-     },
-     {
-      "name" : "Marry Poppins",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/Marry-Poppins-PC",
-      "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-      "name" : "Grav Monke",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/Grav-Monke-PC",
-      "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-        "name" : "Monke Map Loader",
-        "tag" : "",
-        "gitPath" : "Vadix88/MonkeMapLoader",
-        "releaseId" : 0,
-        "author" : "Vadix",
-        "group" : "Gameplay",
-        "dependencies" : [
-         "Newtonsoft.JSON",
-         "Utilla",
-         "Computer Interface"
-        ]
-     },
-     {
-      "name" : "PowerArms",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/PowerArms",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Gameplay",
-      "dependencies" : [
+    {
+      "name": "Rain Disabler",
+      "tag": "",
+      "gitPath": "BzzzThe18th/Rain-Disabler-PC",
+      "releaseId": 0,
+      "author": "Buzz Bzzz bzz BZZZ The 18th",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
         "Utilla"
-       ]
-     },
-     {
-      "name" : "Practice Mod",
-      "tag" : "",
-      "gitPath" : "Graicc/PracticeMod",
-      "releaseId" : 0,
-      "author" : "Graic",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
       ]
-     },
-     {
-      "name" : "Slippery Ice",
-      "tag" : "",
-      "gitPath" : "fchb1239/SlipperyIce",
-      "releaseId" : 0,
-      "author" : "fchb1239",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
+    },
+    {
+      "name": "AirJump",
+      "tag": "",
+      "gitPath": "fchb1239/AirJump",
+      "releaseId": 0,
+      "author": "fchb1239",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla",
+        "Computer Interface"
       ]
-     },
-     {
-      "name" : "Super Monke",
-      "tag" : "",
-      "gitPath" : "fchb1239/SuperMonke",
-      "releaseId" : 0,
-      "author" : "fchb1239",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
+    },
+    {
+      "name": "Dash Monke",
+      "tag": "",
+      "gitPath": "Frogrilla/DashMonke",
+      "releaseId": 0,
+      "author": "Frogrilla",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla"
       ]
-     },
-     {
-      "name" : "Solid Monkeys",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/SolidMonkeys",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
+    },
+    {
+      "name": "GripMonke",
+      "tag": "",
+      "gitPath": "WowItsKaylie/GripMonke",
+      "releaseId": 0,
+      "author": "Lillie",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla",
+        "Computer Interface"
       ]
-     },
-     {
-        "name" : "Space Monke",
-        "tag" : "",
-        "gitPath" : "legoandmars/SpaceMonke",
-        "releaseId" : 0,
-        "author" : "Bobbie",
-        "group" : "Gameplay",
-        "dependencies" : [
-          "Utilla"
-         ]
-     },
+    },
+    {
+      "name": "Rising Lava",
+      "tag": "",
+      "gitPath": "ChillGunner/RisingLava",
+      "releaseId": 0,
+      "author": "BoopetyDoopety",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla",
+        "Computer Interface"
+      ]
+    },
+    {
+      "name": "Iron Monke",
+      "tag": "",
+      "gitPath": "BzzzThe18th/IronMonkePC",
+      "releaseId": 0,
+      "author": "Buzz Bzzz bzz BZZZ The 18th",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla"
+      ]
+    },
+    {
+      "name": "Monke Bazooka",
+      "tag": "",
+      "gitPath": "Waulta/MonkeBazooka",
+      "releaseId": 0,
+      "author": "Waulta",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla",
+        "Computer Interface"
+      ]
+    },
+    {
+      "name": "Marry Poppins",
+      "tag": "",
+      "gitPath": "BzzzThe18th/Marry-Poppins-PC",
+      "releaseId": 0,
+      "author": "Buzz Bzzz bzz BZZZ The 18th",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla"
+      ]
+    },
+    {
+      "name": "Grav Monke",
+      "tag": "",
+      "gitPath": "BzzzThe18th/Grav-Monke-PC",
+      "releaseId": 0,
+      "author": "Buzz Bzzz bzz BZZZ The 18th",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla"
+      ]
+    },
+    {
+      "name": "Monke Map Loader",
+      "tag": "",
+      "gitPath": "Vadix88/MonkeMapLoader",
+      "releaseId": 0,
+      "author": "Vadix",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Newtonsoft.JSON",
+        "Utilla",
+        "Computer Interface"
+      ]
+    },
+    {
+      "name": "PowerArms",
+      "tag": "",
+      "gitPath": "AHauntedArmy/PowerArms",
+      "releaseId": 0,
+      "author": "A Haunted Army",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla"
+      ]
+    },
+    {
+      "name": "Practice Mod",
+      "tag": "",
+      "gitPath": "Graicc/PracticeMod",
+      "releaseId": 0,
+      "author": "Graic",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla",
+        "Computer Interface"
+      ]
+    },
+    {
+      "name": "Slippery Ice",
+      "tag": "",
+      "gitPath": "fchb1239/SlipperyIce",
+      "releaseId": 0,
+      "author": "fchb1239",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla",
+        "Computer Interface"
+      ]
+    },
+    {
+      "name": "Super Monke",
+      "tag": "",
+      "gitPath": "fchb1239/SuperMonke",
+      "releaseId": 0,
+      "author": "fchb1239",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla"
+      ]
+    },
+    {
+      "name": "Solid Monkeys",
+      "tag": "",
+      "gitPath": "AHauntedArmy/SolidMonkeys",
+      "releaseId": 0,
+      "author": "A Haunted Army",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla"
+      ]
+    },
+    {
+      "name": "Space Monke",
+      "tag": "",
+      "gitPath": "legoandmars/SpaceMonke",
+      "releaseId": 0,
+      "author": "Bobbie",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Utilla"
+      ]
+    },
      {
       "name" : "BrokenController",
       "tag" : "",
@@ -212,78 +212,78 @@
       "author" : "A Haunted Army",
       "group" : "Tweaks / Tools"
      },
-     {
-      "name" : "Haunted Mod Menu",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/HauntedModMenu",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
+    {
+      "name": "Haunted Mod Menu",
+      "tag": "",
+      "gitPath": "AHauntedArmy/HauntedModMenu",
+      "releaseId": 0,
+      "author": "A Haunted Army",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
         "Utilla"
       ]
-     },
-     {
-      "name" : "LIV",
-      "tag" : "",
-      "gitPath" : "LIV/GorillaTagLIV",
-      "releaseId" : 0,
-      "author" : "Raicuparta",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
+    },
+    {
+      "name": "LIV",
+      "tag": "",
+      "gitPath": "LIV/GorillaTagLIV",
+      "releaseId": 0,
+      "author": "Raicuparta",
+      "group": "Gorilla Tag Modss",
+      "dependencies": [
         "Utilla",
         "Computer Interface"
       ]
-     },
-     {
-      "name" : "MonkeSwim",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/MonkeSwim",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
+    },
+    {
+      "name": "MonkeSwim",
+      "tag": "",
+      "gitPath": "AHauntedArmy/MonkeSwim",
+      "releaseId": 0,
+      "author": "A Haunted Army",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
         "Monke Map Loader"
-       ]
-     },
-     {
-      "name" : "NoAmbient",
-      "tag" : "",
-      "gitPath" : "RusJJ/NoAmbient",
-      "releaseId" : 0,
-      "author" : "[-=KILL MAN=-] aka RusJJ",
-      "group" : "Tweaks / Tools"
-     },
-     {
-      "name" : "YURFitGorillaTag",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/YURFitGorillaTag",
-      "releaseId" : 0,
-      "author" : "A Haunted Army & fchb1239",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
+      ]
+    },
+    {
+      "name": "NoAmbient",
+      "tag": "",
+      "gitPath": "RusJJ/NoAmbient",
+      "releaseId": 0,
+      "author": "[-=KILL MAN=-] aka RusJJ",
+      "group": "Gorilla Tag Mods"
+    },
+    {
+      "name": "YURFitGorillaTag",
+      "tag": "",
+      "gitPath": "AHauntedArmy/YURFitGorillaTag",
+      "releaseId": 0,
+      "author": "A Haunted Army & fchb1239",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
         "TMPLoader"
-       ]
-     },
-     {
-        "name" : "Utilla",
-        "tag" : "",
-        "gitPath" : "legoandmars/Utilla",
-        "releaseId" : 0,
-        "author" : "Bobbie",
-        "group" : "Libraries"
-     },
-     {
-       "name" : "Computer Interface",
-       "tag" : "",
-       "gitPath" : "ToniMacaroni/ComputerInterface",
-       "releaseId": 0,
-       "author" : "Toni Macaroni",
-       "group" : "Libraries",
-       "dependencies" : [
-         "Bepinject"
-       ]
-     },
+      ]
+    },
+    {
+      "name": "Utilla",
+      "tag": "",
+      "gitPath": "legoandmars/Utilla",
+      "releaseId": 0,
+      "author": "Bobbie",
+      "group": "Gorilla Tag Mods"
+    },
+    {
+      "name": "Computer Interface",
+      "tag": "",
+      "gitPath": "ToniMacaroni/ComputerInterface",
+      "releaseId": 0,
+      "author": "Toni Macaroni",
+      "group": "Gorilla Tag Mods",
+      "dependencies": [
+        "Bepinject"
+      ]
+    },
      {
        "name" : "Bepinject",
        "tag" : "",
@@ -313,22 +313,22 @@
         "author" : "James Newton-King",
         "group" : "Libraries"
      },
-     {
-      "name" : "BananaHook",
-      "tag" : "",
-      "gitPath" : "Graicc/BananaHook",
-      "releaseId" : 0,
-      "author" : "[-=KILL MAN=-] aka RusJJ",
-      "group" : "Libraries"
-     },
-     {
-      "name" : "TMPLoader",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/TMPLoader",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Libraries"
-     }
+    {
+      "name": "BananaHook",
+      "tag": "",
+      "gitPath": "Graicc/BananaHook",
+      "releaseId": 0,
+      "author": "[-=KILL MAN=-] aka RusJJ",
+      "group": "Gorilla Tag Mods"
+    },
+    {
+      "name": "TMPLoader",
+      "tag": "",
+      "gitPath": "AHauntedArmy/TMPLoader",
+      "releaseId": 0,
+      "author": "A Haunted Army",
+      "group": "Gorilla Tag Mods"
+    }
   ],
   "groups" : [
     {
@@ -348,8 +348,13 @@
       "rank" : 3
     },
     {
-      "name" : "Libraries",
-      "rank" : 4
+      "name": "Libraries",
+      "rank": 4
+    },
+    {
+      "name": "Gorilla Tag Mods",
+      "rank": 5
     }
+
   ]
 }
