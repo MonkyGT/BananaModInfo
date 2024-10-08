@@ -1,334 +1,108 @@
 {
   "mods" : [
-     {
-        "name" : "BepInEx",
-        "tag" : "",
-        "gitPath" : "BepInEx/BepInEx",
-        "releaseId" : 4,
-        "author" : "BepInEx Team",
-        "group" : "Core"
-     },
-     {
-        "name" : "Gorilla Cosmetics",
-        "tag" : "",
-        "gitPath" : "legoandmars/GorillaCosmetics",
-        "releaseId" : 0,
-        "author" : "Bobbie & Graic",
-        "group" : "Gorilla Tag Mods",
-        "dependencies" : [
-         "Utilla",
-         "Newtonsoft.JSON"
-        ]
-     },
-    {
-      "name": "Rain Disabler",
-      "tag": "",
-      "gitPath": "BzzzThe18th/Rain-Disabler-PC",
-      "releaseId": 0,
-      "author": "Buzz Bzzz bzz BZZZ The 18th",
-      "group": "Gorilla Tag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-    {
-      "name": "AirJump",
-      "tag": "",
-      "gitPath": "fchb1239/AirJump",
-      "releaseId": 0,
-      "author": "fchb1239",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla",
-        "Computer Interface"
-      ]
-    },
-    {
-      "name": "Dash Monke",
-      "tag": "",
-      "gitPath": "Frogrilla/DashMonke",
-      "releaseId": 0,
-      "author": "Frogrilla",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-    {
-      "name": "GripMonke",
-      "tag": "",
-      "gitPath": "WowItsKaylie/GripMonke",
-      "releaseId": 0,
-      "author": "Lillie",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla",
-        "Computer Interface"
-      ]
-    },
-    {
-      "name": "Rising Lava",
-      "tag": "",
-      "gitPath": "ChillGunner/RisingLava",
-      "releaseId": 0,
-      "author": "BoopetyDoopety",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla",
-        "Computer Interface"
-      ]
-    },
-    {
-      "name": "Iron Monke",
-      "tag": "",
-      "gitPath": "BzzzThe18th/IronMonkePC",
-      "releaseId": 0,
-      "author": "Buzz Bzzz bzz BZZZ The 18th",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-    {
-      "name": "Monke Bazooka",
-      "tag": "",
-      "gitPath": "Waulta/MonkeBazooka",
-      "releaseId": 0,
-      "author": "Waulta",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla",
-        "Computer Interface"
-      ]
-    },
-    {
-      "name": "Marry Poppins",
-      "tag": "",
-      "gitPath": "BzzzThe18th/Marry-Poppins-PC",
-      "releaseId": 0,
-      "author": "Buzz Bzzz bzz BZZZ The 18th",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-    {
-      "name": "Grav Monke",
-      "tag": "",
-      "gitPath": "BzzzThe18th/Grav-Monke-PC",
-      "releaseId": 0,
-      "author": "Buzz Bzzz bzz BZZZ The 18th",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-    {
-      "name": "Monke Map Loader",
-      "tag": "",
-      "gitPath": "Vadix88/MonkeMapLoader",
-      "releaseId": 0,
-      "author": "Vadix",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Newtonsoft.JSON",
-        "Utilla",
-        "Computer Interface"
-      ]
-    },
-    {
-      "name": "PowerArms",
-      "tag": "",
-      "gitPath": "AHauntedArmy/PowerArms",
-      "releaseId": 0,
-      "author": "A Haunted Army",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-    {
-      "name": "Practice Mod",
-      "tag": "",
-      "gitPath": "Graicc/PracticeMod",
-      "releaseId": 0,
-      "author": "Graic",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla",
-        "Computer Interface"
-      ]
-    },
-    {
-      "name": "Slippery Ice",
-      "tag": "",
-      "gitPath": "fchb1239/SlipperyIce",
-      "releaseId": 0,
-      "author": "fchb1239",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla",
-        "Computer Interface"
-      ]
-    },
-    {
-      "name": "Super Monke",
-      "tag": "",
-      "gitPath": "fchb1239/SuperMonke",
-      "releaseId": 0,
-      "author": "fchb1239",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-    {
-      "name": "Solid Monkeys",
-      "tag": "",
-      "gitPath": "AHauntedArmy/SolidMonkeys",
-      "releaseId": 0,
-      "author": "A Haunted Army",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-    {
-      "name": "Space Monke",
-      "tag": "",
-      "gitPath": "legoandmars/SpaceMonke",
-      "releaseId": 0,
-      "author": "Bobbie",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-     {
-      "name" : "BrokenController",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/BrokenController",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools"
-     },
-    {
-      "name": "Haunted Mod Menu",
-      "tag": "",
-      "gitPath": "AHauntedArmy/HauntedModMenu",
-      "releaseId": 0,
-      "author": "A Haunted Army",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla"
-      ]
-    },
-    {
-      "name": "LIV",
-      "tag": "",
-      "gitPath": "LIV/GorillaTagLIV",
-      "releaseId": 0,
-      "author": "Raicuparta",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Utilla",
-        "Computer Interface"
-      ]
-    },
-    {
-      "name": "MonkeSwim",
-      "tag": "",
-      "gitPath": "AHauntedArmy/MonkeSwim",
-      "releaseId": 0,
-      "author": "A Haunted Army",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Monke Map Loader"
-      ]
-    },
-    {
-      "name": "NoAmbient",
-      "tag": "",
-      "gitPath": "RusJJ/NoAmbient",
-      "releaseId": 0,
-      "author": "[-=KILL MAN=-] aka RusJJ",
-      "group": "GorillaTag Mods"
-    },
-    {
-      "name": "YURFitGorillaTag",
-      "tag": "",
-      "gitPath": "AHauntedArmy/YURFitGorillaTag",
-      "releaseId": 0,
-      "author": "A Haunted Army & fchb1239",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "TMPLoader"
-      ]
-    },
-    {
-      "name": "Utilla",
-      "tag": "",
-      "gitPath": "legoandmars/Utilla",
-      "releaseId": 0,
-      "author": "Bobbie",
-      "group": "GorillaTag Mods"
-    },
-    {
-      "name": "Computer Interface",
-      "tag": "",
-      "gitPath": "ToniMacaroni/ComputerInterface",
-      "releaseId": 0,
-      "author": "Toni Macaroni",
-      "group": "GorillaTag Mods",
-      "dependencies": [
-        "Bepinject"
-      ]
-    },
-     {
-       "name" : "Bepinject",
-       "tag" : "",
-       "gitPath" : "Auros/Bepinject",
-       "releaseId": 0,
-       "author" : "Auros",
-       "group" : "Libraries",
-       "installPath" : "BepInEx/plugins",
-       "dependencies" : [
-         "Extenject"
-       ]
-     },
-     {
-       "name" : "Extenject",
-       "tag" : "",
-       "gitPath" : "Auros/Bepinject",
-       "releaseId": 1,
-       "author" : "svermeulen",
-       "group" : "Libraries",
-       "installPath" : "BepInEx/plugins"
-     },
-     {
-        "name" : "Newtonsoft.JSON",
-        "tag" : "",
-        "gitPath" : "legoandmars/Newtonsoft.Json",
-        "releaseId" : 0,
-        "author" : "James Newton-King",
-        "group" : "Libraries"
-     },
-    {
-      "name": "BananaHook",
-      "tag": "",
-      "gitPath": "Graicc/BananaHook",
-      "releaseId": 0,
-      "author": "[-=KILL MAN=-] aka RusJJ",
-      "group": "GorillaTag Mods"
-    },
-    {
-      "name": "TMPLoader",
-      "tag": "",
-      "gitPath": "AHauntedArmy/TMPLoader",
-      "releaseId": 0,
-      "author": "A Haunted Army",
-      "group": "GorillaTag Mods"
-    }
+
+    [
+
+      {
+        "name": "BepInEx",
+        "author": "BepInEx Team",
+        "version": "5.4.23.2",
+        "git_path": "BepInEx/BepInEx",
+        "group": "Core",
+        "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
+      },
+      {
+        "name": "Bepinject",
+        "author": "Auros",
+        "version": "1.0.1",
+        "dependencies": [
+          "Extenject"
+        ],
+        "install_location": "BepInEx/plugins",
+        "git_path": "Auros/Bepinject",
+        "group": "Libraries",
+        "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
+      },
+
+      {
+        "name": "Extenject",
+        "author": "svermeulen",
+        "version": "1.0.1",
+        "install_location": "BepInEx/plugins",
+        "git_path": "Auros/Bepinject",
+        "group": "Libraries",
+        "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
+      },
+      {
+        "name": "Capuchin Cosmetics",
+        "author": "Bobbie & Graic",
+        "version": "3.0.2",
+        "dependencies": [
+          "Utilla",
+          "Newtonsoft.JSON"
+        ],
+        "git_path": "legoandmars/GorillaCosmetics",
+        "group": "Cosmetic",
+        "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
+      },
+
+      {
+        "name": "LIV",
+        "author": "Raicuparta",
+        "version": "1.5.0",
+        "dependencies": [
+          "Utilla",
+          "Computer Interface"
+        ],
+        "git_path": "LIV/GorillaTagLIV",
+        "group": "Tweaks / Tools",
+        "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
+      },
+
+      {
+        "name": "Newtonsoft.JSON",
+        "author": "James Newton-King",
+        "version": "12.0.3",
+        "git_path": "legoandmars/Newtonsoft.Json",
+        "group": "Libraries",
+        "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+      },
+      {
+        "name": "NoAmbient",
+        "author": "[-=KILL MAN=-] aka RusJJ",
+        "version": "1.1.0",
+        "git_path": "RusJJ/NoAmbient",
+        "group": "Tweaks / Tools",
+        "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+      },
+      {
+      },
+      {
+        "name": "Solid Monkeys",
+        "author": "A Haunted Army",
+        "version": "1.0.1",
+        "dependencies": [
+          "Utilla"
+        ],
+        "git_path": "AHauntedArmy/SolidMonkeys",
+        "group": "GorillaTag Mods",
+        "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
+      },
+      {
+
+      },
+
+      {
+        "name": "Utilla",
+        "author": "Bobbie",
+        "version": "1.6.14",
+        "git_path": "legoandmars/Utilla",
+        "group": "Gorilla Tag Mods",
+        "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
+
+      }
+    ]
+    
   ],
   "groups" : [
     {
@@ -350,11 +124,8 @@
     {
       "name": "Libraries",
       "rank": 4
-    },
-    {
-      "name": "GorillaTag Mods",
-      "rank": 5
     }
+  
 
   ]
 }
