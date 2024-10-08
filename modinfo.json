@@ -8,15 +8,6 @@
     "group": "Core",
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
   },
-
-  {
-    "name": "TestMod",
-    "author": "N/A",
-    "version": "0",
-    "git_path": "Unknown/Unknown",
-    "group": "Core",
-    "download_url": "https://google.com"
-  },
   {
     "name": "Utilla",
     "author": "Bobbie",
