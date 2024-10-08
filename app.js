@@ -15,7 +15,7 @@ function isNumeric(value) {
 }
 
 modList.mods.forEach(mod => 
-  https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}${mod.gitPath}${postfix}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
+    https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}${mod.gitPath}${postfix}`, { headers: { 'User-Agent': 'DeveloperPixel0/BananaModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
     let body = "";
 
       res.on("data", (chunk) => {
