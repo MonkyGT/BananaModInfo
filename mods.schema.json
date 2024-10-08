@@ -1,7 +1,7 @@
 {
-  "$id": "https://github.com/DeadlyKitten/MonkeModInfo/mods.schema.json",
+  "$id": "https://github.com/DeveloperPixel0/BananaModInfo/blob/master/mods.schema.json",
   "type": "object",
-  "required": ["mods", "groups"],
+  "required": [ "mods", "groups" ],
   "properties": {
     "mods": {
       "type": "array",
@@ -15,7 +15,7 @@
   "$defs": {
     "mod": {
       "type": "object",
-      "required": ["name", "gitPath", "releaseId", "author", "group"],
+      "required": [ "name", "gitPath", "releaseId", "author", "group" ],
       "properties": {
         "name": {
           "type": "string"
@@ -39,7 +39,7 @@
     },
     "group": {
       "type": "object",
-      "required": ["name", "rank"],
+      "required": [ "name", "rank" ],
       "properties": {
         "name": {
           "type": "string"
