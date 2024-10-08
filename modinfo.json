@@ -48,8 +48,7 @@
     "author": "Raicuparta",
     "version": "1.5.0",
     "dependencies": [
-      "Utilla",
-      "Computer Interface"
+      "Utilla"
     ],
     "git_path": "LIV/GorillaTagLIV",
     "group": "Tweaks / Tools",
@@ -75,13 +74,13 @@
   {
   
   },
-  
+
   {
     "name": "Utilla",
     "author": "Bobbie",
     "version": "1.6.14",
     "git_path": "legoandmars/Utilla",
-    "group": "Gorilla Tag Mods",
+    "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
 
   }
