@@ -87,7 +87,7 @@
       "Newtonsoft.JSON"
     ],
     "git_path": "legoandmars/GorillaCosmetics",
-    "group": "Cosmetics",
+    "group": "Cosmetic",
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
   },
   {
@@ -98,7 +98,7 @@
       "Utilla"
     ],
     "git_path": "BzzzThe18th/Grav-Monke-PC",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
   },
   {
@@ -109,7 +109,7 @@
       "Utilla"
     ],
     "git_path": "AHauntedArmy/HauntedModMenu",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.1/HauntedModMenu-v1.0.1.zip"
   },
   {
@@ -120,7 +120,7 @@
       "Utilla"
     ],
     "git_path": "BzzzThe18th/IronMonkePC",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
   },
   {
@@ -143,7 +143,7 @@
       "Utilla"
     ],
     "git_path": "BzzzThe18th/Marry-Poppins-PC",
-    "group": "Gameplay",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
   },
   {
@@ -155,7 +155,7 @@
       "Computer Interface"
     ],
     "git_path": "Waulta/MonkeBazooka",
-    "group": "Gameplay",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.2/MonkeBazooka.zip"
   },
   {
@@ -168,7 +168,7 @@
       "Computer Interface"
     ],
     "git_path": "Vadix88/MonkeMapLoader",
-    "group": "Gameplay",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.2/MonkeMapLoader.zip"
   },
   {
@@ -179,7 +179,7 @@
       "Monke Map Loader"
     ],
     "git_path": "AHauntedArmy/MonkeSwim",
-    "group": "Tweaks / Tools",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
   },
   {
@@ -206,7 +206,7 @@
       "Utilla"
     ],
     "git_path": "AHauntedArmy/PowerArms",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
   },
   {
@@ -218,7 +218,7 @@
       "Computer Interface"
     ],
     "git_path": "Graicc/PracticeMod",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
   },
   {
@@ -230,7 +230,7 @@
       "Computer Interface"
     ],
     "git_path": "fchb1239/SlipperyIce",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
   },
   {
@@ -241,7 +241,7 @@
       "Utilla"
     ],
     "git_path": "AHauntedArmy/SolidMonkeys",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
   },
   {
@@ -252,7 +252,7 @@
       "Utilla"
     ],
     "git_path": "legoandmars/SpaceMonke",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
   },
   {
@@ -263,7 +263,7 @@
       "Utilla"
     ],
     "git_path": "fchb1239/SuperMonke",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
   },
   {
@@ -271,7 +271,7 @@
     "author": "A Haunted Army",
     "version": "1.0.2",
     "git_path": "AHauntedArmy/TMPLoader",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
   },
   {
@@ -290,7 +290,7 @@
       "TMPLoader"
     ],
     "git_path": "AHauntedArmy/YURFitGorillaTag",
-    "group": "Gorilla Tag Mods",
+    "group": "GorillaTag Mods",
     "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.4/YurFitGorillaTag-v1.0.4.zip"
   }
 ]
