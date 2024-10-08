@@ -37,7 +37,7 @@
       "gitPath": "fchb1239/AirJump",
       "releaseId": 0,
       "author": "fchb1239",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla",
         "Computer Interface"
@@ -49,7 +49,7 @@
       "gitPath": "Frogrilla/DashMonke",
       "releaseId": 0,
       "author": "Frogrilla",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla"
       ]
@@ -60,7 +60,7 @@
       "gitPath": "WowItsKaylie/GripMonke",
       "releaseId": 0,
       "author": "Lillie",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla",
         "Computer Interface"
@@ -72,7 +72,7 @@
       "gitPath": "ChillGunner/RisingLava",
       "releaseId": 0,
       "author": "BoopetyDoopety",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla",
         "Computer Interface"
@@ -84,7 +84,7 @@
       "gitPath": "BzzzThe18th/IronMonkePC",
       "releaseId": 0,
       "author": "Buzz Bzzz bzz BZZZ The 18th",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla"
       ]
@@ -95,7 +95,7 @@
       "gitPath": "Waulta/MonkeBazooka",
       "releaseId": 0,
       "author": "Waulta",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla",
         "Computer Interface"
@@ -107,7 +107,7 @@
       "gitPath": "BzzzThe18th/Marry-Poppins-PC",
       "releaseId": 0,
       "author": "Buzz Bzzz bzz BZZZ The 18th",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla"
       ]
@@ -118,7 +118,7 @@
       "gitPath": "BzzzThe18th/Grav-Monke-PC",
       "releaseId": 0,
       "author": "Buzz Bzzz bzz BZZZ The 18th",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla"
       ]
@@ -129,7 +129,7 @@
       "gitPath": "Vadix88/MonkeMapLoader",
       "releaseId": 0,
       "author": "Vadix",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Newtonsoft.JSON",
         "Utilla",
@@ -142,7 +142,7 @@
       "gitPath": "AHauntedArmy/PowerArms",
       "releaseId": 0,
       "author": "A Haunted Army",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla"
       ]
@@ -153,7 +153,7 @@
       "gitPath": "Graicc/PracticeMod",
       "releaseId": 0,
       "author": "Graic",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla",
         "Computer Interface"
@@ -165,7 +165,7 @@
       "gitPath": "fchb1239/SlipperyIce",
       "releaseId": 0,
       "author": "fchb1239",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla",
         "Computer Interface"
@@ -177,7 +177,7 @@
       "gitPath": "fchb1239/SuperMonke",
       "releaseId": 0,
       "author": "fchb1239",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla"
       ]
@@ -188,7 +188,7 @@
       "gitPath": "AHauntedArmy/SolidMonkeys",
       "releaseId": 0,
       "author": "A Haunted Army",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla"
       ]
@@ -199,7 +199,7 @@
       "gitPath": "legoandmars/SpaceMonke",
       "releaseId": 0,
       "author": "Bobbie",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla"
       ]
@@ -218,7 +218,7 @@
       "gitPath": "AHauntedArmy/HauntedModMenu",
       "releaseId": 0,
       "author": "A Haunted Army",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla"
       ]
@@ -229,7 +229,7 @@
       "gitPath": "LIV/GorillaTagLIV",
       "releaseId": 0,
       "author": "Raicuparta",
-      "group": "Gorilla Tag Modss",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Utilla",
         "Computer Interface"
@@ -241,7 +241,7 @@
       "gitPath": "AHauntedArmy/MonkeSwim",
       "releaseId": 0,
       "author": "A Haunted Army",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Monke Map Loader"
       ]
@@ -252,7 +252,7 @@
       "gitPath": "RusJJ/NoAmbient",
       "releaseId": 0,
       "author": "[-=KILL MAN=-] aka RusJJ",
-      "group": "Gorilla Tag Mods"
+      "group": "GorillaTag Mods"
     },
     {
       "name": "YURFitGorillaTag",
@@ -260,7 +260,7 @@
       "gitPath": "AHauntedArmy/YURFitGorillaTag",
       "releaseId": 0,
       "author": "A Haunted Army & fchb1239",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "TMPLoader"
       ]
@@ -271,7 +271,7 @@
       "gitPath": "legoandmars/Utilla",
       "releaseId": 0,
       "author": "Bobbie",
-      "group": "Gorilla Tag Mods"
+      "group": "GorillaTag Mods"
     },
     {
       "name": "Computer Interface",
@@ -279,7 +279,7 @@
       "gitPath": "ToniMacaroni/ComputerInterface",
       "releaseId": 0,
       "author": "Toni Macaroni",
-      "group": "Gorilla Tag Mods",
+      "group": "GorillaTag Mods",
       "dependencies": [
         "Bepinject"
       ]
@@ -319,7 +319,7 @@
       "gitPath": "Graicc/BananaHook",
       "releaseId": 0,
       "author": "[-=KILL MAN=-] aka RusJJ",
-      "group": "Gorilla Tag Mods"
+      "group": "GorillaTag Mods"
     },
     {
       "name": "TMPLoader",
@@ -327,7 +327,7 @@
       "gitPath": "AHauntedArmy/TMPLoader",
       "releaseId": 0,
       "author": "A Haunted Army",
-      "group": "Gorilla Tag Mods"
+      "group": "GorillaTag Mods"
     }
   ],
   "groups" : [
@@ -352,8 +352,8 @@
       "rank": 4
     },
     {
-      "name": "Gorilla Tag Mods",
-      "rank": 6
+      "name": "GorillaTag Mods",
+      "rank": 5
     }
 
   ]
