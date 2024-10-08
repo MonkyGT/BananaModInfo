@@ -75,19 +75,7 @@
         "group": "Tweaks / Tools",
         "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
       },
-      {
-      },
-      {
-        "name": "Solid Monkeys",
-        "author": "A Haunted Army",
-        "version": "1.0.1",
-        "dependencies": [
-          "Utilla"
-        ],
-        "git_path": "AHauntedArmy/SolidMonkeys",
-        "group": "GorillaTag Mods",
-        "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
-      },
+      
       {
 
       },
@@ -97,7 +85,7 @@
         "author": "Bobbie",
         "version": "1.6.14",
         "git_path": "legoandmars/Utilla",
-        "group": "Gorilla Tag Mods",
+        "group": "Libraries",
         "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
 
       }
