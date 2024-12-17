@@ -11,6 +11,14 @@
         "group": "Core",
         "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
       },
+        {
+    "name": "MelonLoader",
+    "author": "LavaGang",
+    "version": "v0.6.6 Open-Beta",
+    "git_path": "LavaGang/MelonLoader",
+    "group": "Core",
+    "download_url": "https://github.com/LavaGang/MelonLoader/releases/download/v0.6.6/MelonLoader.x64.zip"
+  },
       {
         "name": "Bepinject",
         "author": "Auros",
