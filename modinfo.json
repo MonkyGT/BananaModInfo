@@ -1,15 +1,6 @@
 [
  
   {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "version": "6.0.0-pre.2",
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip"
-  },
- 
-  {
     "name": "MelonLoader",
     "author": "LavaGang",
     "version": "v0.6.6 Open-Beta",
