@@ -1,0 +1,118 @@
+{
+  "mods" : [
+
+    [
+        {
+    "name": "MelonLoader",
+    "author": "LavaGang",
+    "version": "v0.6.6 Open-Beta",
+    "git_path": "LavaGang/MelonLoader",
+    "group": "Core",
+    "download_url": "https://github.com/LavaGang/MelonLoader/releases/download/v0.6.6/MelonLoader.x64.zip"
+  },
+      {
+        "name": "Bepinject",
+        "author": "Auros",
+        "version": "1.0.1",
+        "dependencies": [
+          "Extenject"
+        ],
+        "install_location": "BepInEx/plugins",
+        "git_path": "Auros/Bepinject",
+        "group": "Libraries",
+        "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
+      },
+
+      {
+        "name": "Extenject",
+        "author": "svermeulen",
+        "version": "1.0.1",
+        "install_location": "BepInEx/plugins",
+        "git_path": "Auros/Bepinject",
+        "group": "Libraries",
+        "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
+      },
+      {
+        "name": "Capuchin Cosmetics",
+        "author": "Bobbie & Graic",
+        "version": "3.0.2",
+        "dependencies": [
+          "Utilla",
+          "Newtonsoft.JSON"
+        ],
+        "git_path": "legoandmars/GorillaCosmetics",
+        "group": "Cosmetic",
+        "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
+      },
+
+      {
+        "name": "LIV",
+        "author": "Raicuparta",
+        "version": "1.5.0",
+        "dependencies": [
+          "Utilla",
+          "Computer Interface"
+        ],
+        "git_path": "LIV/GorillaTagLIV",
+        "group": "Tweaks / Tools",
+        "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
+      },
+
+      {
+        "name": "Newtonsoft.JSON",
+        "author": "James Newton-King",
+        "version": "12.0.3",
+        "git_path": "legoandmars/Newtonsoft.Json",
+        "group": "Libraries",
+        "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+      },
+      {
+        "name": "NoAmbient",
+        "author": "[-=KILL MAN=-] aka RusJJ",
+        "version": "1.1.0",
+        "git_path": "RusJJ/NoAmbient",
+        "group": "Tweaks / Tools",
+        "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+      },
+      
+      {
+
+      },
+
+      {
+        "name": "Utilla",
+        "author": "Bobbie",
+        "version": "1.6.14",
+        "git_path": "legoandmars/Utilla",
+        "group": "Libraries",
+        "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
+
+      }
+    ]
+    
+  ],
+  "groups" : [
+    {
+      "name" : "Core",
+      "rank" : 0
+    },
+    {
+      "name" : "Cosmetic",
+      "rank" : 1
+    },
+    {
+      "name" : "Gameplay",
+      "rank" : 2
+    },
+    {
+      "name" : "Tweaks / Tools",
+      "rank" : 3
+    },
+    {
+      "name": "Libraries",
+      "rank": 4
+    }
+  
+
+  ]
+}
