@@ -1,5 +1,6 @@
 [
   {
+    "COMMENT_": "this is only required for old BMM, i will remove it when i update bmm",
     "name" : "Core",
     "rank" : 0
   },
